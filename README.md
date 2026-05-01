@@ -140,9 +140,9 @@ To set up the database:
 
 ## Authors
 
-Ghala Alghamdi
-Hiba Amanulla
-Effat University
-Computer Science Department
-Course: CS2111 – Web Application Development
-Instructor: Dr. Mohmmad Nauman Amjad
+- Ghala Alghamdi
+- Hiba Amanulla
+- Effat University
+- Computer Science Department
+- Course: CS2111 – Web Application Development
+- Instructor: Dr. Mohmmad Nauman Amjad
