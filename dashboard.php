@@ -73,7 +73,7 @@ $conn->close();
   <title>User Dashboard - Dreamscape Destinations</title>
 
   <!-- Link to external styles and fonts -->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 

@@ -51,7 +51,7 @@ $total_amount = ($trip_price + $class_extra) * $passengers;
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Dreamscape Destinations - Booking Confirmation</title>
   
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <style>

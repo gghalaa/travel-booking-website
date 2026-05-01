@@ -154,7 +154,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['book_trip'])) {
   <title>Dreamscape Destinations</title>
 
   <!-- Styles and fonts -->  
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <style>

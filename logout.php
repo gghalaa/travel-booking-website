@@ -29,7 +29,7 @@ if (isset($_POST['cancel_logout']) && isset($_SESSION['logout_referrer'])) {
   <title>Logout Confirmation</title>
 
   <!-- Link to external CSS file -->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
   
   <!-- Preconnect to Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />

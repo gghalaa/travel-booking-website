@@ -12,7 +12,7 @@ session_start();
   <title>About Us - Dreamscape Destinations</title>
 
   <!-- External styles and fonts -->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 

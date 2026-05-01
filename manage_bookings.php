@@ -43,7 +43,7 @@ $result = $conn->query($sql);
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Manage Bookings - Dreamscape Destinations</title>
-  <link rel="stylesheet" href="styles.css"> <!-- External stylesheet for common styles -->
+  <link rel="stylesheet" href="assets/css/styles.css"> <!-- External stylesheet for common styles -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <style>

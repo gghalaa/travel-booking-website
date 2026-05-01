@@ -48,7 +48,7 @@ $tripImages = [
 <head>
     <meta charset="UTF-8" />
     <title><?= htmlspecialchars($trip['title']) ?> - Dreamscape Destinations</title> <!-- Title of the page with trip name -->
-    <link rel="stylesheet" href="styles.css" /> <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="assets/css/styles.css" /> <!-- Link to the external CSS file -->
     <link rel="preconnect" href="https://fonts.googleapis.com" /> <!-- Preconnect for Google Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> <!-- Preconnect for fonts.gstatic.com -->
     <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Viewport settings for responsive design -->
