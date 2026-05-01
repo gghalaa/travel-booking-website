@@ -58,7 +58,7 @@ Admins can:
 
 ## Project Structure
 
-\`\`\`text
+```text
 travel-booking-website/
 ├── assets/
 │   ├── css/
@@ -85,7 +85,6 @@ travel-booking-website/
 ├── submit-booking.php
 ├── trip-details.php
 └── trips.php
-\`\`\`
 
 ## Main Pages
 
