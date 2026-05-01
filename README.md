@@ -137,3 +137,12 @@ To set up the database:
 - The `assets` folder contains the CSS file and website images.
 - The `database` folder contains the SQL file needed to create/import the database.
 - The `docs` folder contains project documentation.
+
+## Authors
+
+Ghala Alghamdi
+Hiba Amanulla
+Effat University
+Computer Science Department
+Course: CS2111 – Web Application Development
+Instructor: Dr. Mohmmad Nauman Amjad
