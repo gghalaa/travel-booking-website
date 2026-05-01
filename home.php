@@ -514,7 +514,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['book_trip'])) {
   <div class="carousel-inner">
     <!-- Carousel item for Bali Adventure -->
     <div class="carousel-item active">
-      <img src="bali.jpg" alt="A scenic beach in Bali, Indonesia" class="d-block w-100" />
+      <img src="assets/images/bali.jpg" alt="A scenic beach in Bali, Indonesia" class="d-block w-100" />
       <div class="carousel-caption">
         <h5 class="card-title">Bali Adventure</h5>
         <p>Beach + Culture Tour - Starting from $1,200.00</p>
@@ -523,7 +523,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['book_trip'])) {
     </div>
     <!-- Carousel item for Paris Getaway -->
     <div class="carousel-item">
-      <img src="paris.jpg" alt="Eiffel Tower at sunset in Paris" class="d-block w-100" />
+      <img src="assets/images/paris.jpg" alt="Eiffel Tower at sunset in Paris" class="d-block w-100" />
       <div class="carousel-caption">
         <h5 class="card-title">Paris Getaway</h5>
         <p>Experience the city - Starting from $1,400.00</p>
@@ -532,7 +532,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['book_trip'])) {
     </div>
     <!-- Carousel item for Dubai Luxury Tour -->
     <div class="carousel-item">
-      <img src="dubai.jpg" alt="Skyscrapers and desert view in Dubai" class="d-block w-100" />
+      <img src="assets/images/dubai.jpg" alt="Skyscrapers and desert view in Dubai" class="d-block w-100" />
       <div class="carousel-caption">
         <h5 class="card-title">Dubai Luxury Tour</h5>
         <p>Desert + Luxury Shopping - Starting from $2,000.00</p>
@@ -541,7 +541,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['book_trip'])) {
     </div>
     <!-- Carousel item for Tokyo Highlights -->
     <div class="carousel-item">
-      <img src="tokyo.jpg" alt="Night lights and skyline in Tokyo" class="d-block w-100" />
+      <img src="assets/images/tokyo.jpg" alt="Night lights and skyline in Tokyo" class="d-block w-100" />
       <div class="carousel-caption">
         <h5 class="card-title">Tokyo Highlights</h5>
         <p>Modern Japan Tour - Starting from $1,800.00</p>

@@ -210,9 +210,9 @@ session_start();
     <section class="about-section">
       <h2 class="card-title">Tour Memories</h2>
       <div class="gallery">
-        <img src="tourgroup1.jpg" alt="Tour Group 1">
-        <img src="tourgroup2.jpg" alt="Tour Group 2">
-        <img src="tourgroup3.jpg" alt="Tour Groups 3">
+        <img src="assets/images/tourgroup1.jpg" alt="Tour Group 1">
+        <img src="assets/images/tourgroup2.jpg" alt="Tour Group 2">
+        <img src="assets/images/tourgroup3.jpg" alt="Tour Groups 3">
       </div>
     </section>
 

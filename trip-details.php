@@ -30,16 +30,16 @@ if (isset($_POST['trip_id'])) {
 
 // Define a set of images for each trip (carousel images)
 $tripImages = [
-    1 => ['bali.jpg', 'bali2.jpg', 'bali3.jpg'],
-    2 => ['rome.jpg', 'rome2.jpg', 'rome3.jpg'],
-    3 => ['tokyo.jpg', 'tokyo2.jpg', 'tokyo3.jpg'],
-    4 => ['paris.jpg', 'paris2.jpg', 'paris3.jpg'],
-    5 => ['brazil.jpg', 'brazil2.jpg', 'brazil3.jpg'],
-    6 => ['newyork.jpg', 'newyork2.jpg', 'newyork3.jpg'],
-    7 => ['dubai.jpg', 'dubai2.jpg', 'dubai3.jpg'],
-    8 => ['sydney.jpg', 'sydney2.jpg', 'sydney3.jpg'],
-    9 => ['iceland.jpg', 'iceland2.jpg', 'iceland3.jpg'],
-    10 => ['athens.jpg', 'athens2.jpg', 'athens3.jpg'],
+    1 => ['assets/images/bali.jpg', 'assets/images/bali2.jpg', 'assets/images/bali3.jpg'],
+    2 => ['assets/images/rome.jpg', 'assets/images/rome2.jpg', 'assets/images/rome3.jpg'],
+    3 => ['assets/images/tokyo.jpg', 'assets/images/tokyo2.jpg', 'assets/images/tokyo3.jpg'],
+    4 => ['assets/images/paris.jpg', 'assets/images/paris2.jpg', 'assets/images/paris3.jpg'],
+    5 => ['assets/images/brazil.jpg', 'assets/images/brazil2.jpg', 'assets/images/brazil3.jpg'],
+    6 => ['assets/images/newyork.jpg', 'assets/images/newyork2.jpg', 'assets/images/newyork3.jpg'],
+    7 => ['assets/images/dubai.jpg', 'assets/images/dubai2.jpg', 'assets/images/dubai3.jpg'],
+    8 => ['assets/images/sydney.jpg', 'assets/images/sydney2.jpg', 'assets/images/sydney3.jpg'],
+    9 => ['assets/images/iceland.jpg', 'assets/images/iceland2.jpg', 'assets/images/iceland3.jpg'],
+    10 => ['assets/images/athens.jpg', 'assets/images/athens2.jpg', 'assets/images/athens3.jpg'],
 ];
 ?>
 

@@ -154,34 +154,34 @@ $conn->close();
           $imagePath = '';
           switch ($trip['title']) {
             case 'Bali Adventure':
-              $imagePath = 'bali.jpg';
+              $imagePath = 'assets/images/bali.jpg';
               break;
             case 'Rome Exploration':
-              $imagePath = 'rome.jpg';
+              $imagePath = 'assets/images/rome.jpg';
               break;
             case 'Tokyo Highlights':
-              $imagePath = 'tokyo.jpg';
+              $imagePath = 'assets/images/tokyo.jpg';
               break;
             case 'Paris Getaway':
-              $imagePath = 'paris.jpg';
+              $imagePath = 'assets/images/paris.jpg';
               break;
             case 'Amazon Expedition':
-              $imagePath = 'brazil.jpg';
+              $imagePath = 'assets/images/brazil.jpg';
               break;
             case 'New York Escape':
-              $imagePath = 'newyork.jpg';
+              $imagePath = 'assets/images/newyork.jpg';
               break;
             case 'Dubai Luxury Tour':
-              $imagePath = 'dubai.jpg';
+              $imagePath = 'assets/images/dubai.jpg';
               break;
             case 'Sydney Explorer':
-              $imagePath = 'sydney.jpg';
+              $imagePath = 'assets/images/sydney.jpg';
               break;
             case 'Iceland Sighting':
-              $imagePath = 'iceland.jpg';
+              $imagePath = 'assets/images/iceland.jpg';
               break;
             case 'Greece Discovery':
-              $imagePath = 'athens.jpg';
+              $imagePath = 'assets/images/athens.jpg';
               break;
           }
 
